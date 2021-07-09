@@ -13,6 +13,6 @@
 В модуле salary.py реализована функция `calculate_salary`  
 В модуле people.py реализована функция `get_employees``  
 
-Реализован модуль `dirty_main.py` с применением уонструкции:
+Реализован модуль `dirty_main.py` с применением конструкции:
 
     import *
